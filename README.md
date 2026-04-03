@@ -17,7 +17,7 @@ playing (+34% lift). Recommending full rollout with personalization layer.
 - Secondary metric: session duration (t-test)
 
 ## Dashboard
-[View Tableau Dashboard](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View Tableau Dashboard]((https://public.tableau.com/views/NBAPushNotificationABTestEngagementAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Project Structure
 nba_ab_test/
